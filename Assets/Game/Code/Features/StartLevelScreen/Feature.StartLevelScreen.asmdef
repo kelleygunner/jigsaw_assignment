@@ -1,0 +1,19 @@
+{
+    "name": "Feature.StartLevelScreen",
+    "rootNamespace": "",
+    "references": [
+        "GUID:63425ff2532e4e87a7a530bae8064d05",
+        "GUID:2a249a5803ab6412eae8872696fbfe38",
+        "GUID:c8024a826b714170999d7c97be98f876",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
